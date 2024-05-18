@@ -4,7 +4,7 @@ This is a Basic app build using the fundamental concepts of React.js such as Use
 
 1. Install the required packages.
    
-    npm install
+    #npm install#
    
 1. Start the development server.
    
