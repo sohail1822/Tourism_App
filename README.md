@@ -3,9 +3,11 @@
 This is a Basic app build using the fundamental concepts of React.js such as UseState Hook and Tailwind CSS to get together.
 
 1. Install the required packages.
+   
     npm install
    
 1. Start the development server.
+   
     npm start
    
 1. Open the project in your browser at [`http://localhost:3000`](http://localhost:3000) to view your project.
